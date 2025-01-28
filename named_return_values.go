@@ -3,9 +3,9 @@ package main
 import "fmt"
 
 func getCompleteName() (firstName, middleName, lastName string) {
-	firstName = "Eko"
-	middleName = "Kurniawan"
-	lastName = "Khannedy"
+	firstName = "Muhammad"
+	middleName = "Nurul"
+	lastName = "Mustofa"
 
 	return firstName, middleName, lastName
 }
